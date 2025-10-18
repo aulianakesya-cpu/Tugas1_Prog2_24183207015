@@ -9,7 +9,7 @@ package com.mycompany.mahasiswa;
  * @author Lenovo
  */
 public class Mahasiswa {
-        private String nama;
+    private String nama;
     private int nim;
     private String jurusan;
 
